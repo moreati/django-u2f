@@ -1,4 +1,5 @@
 django_extensions
 pyOpenSSL
+watchdog
 werkzeug
 django-debug-toolbar
