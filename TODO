@@ -1,0 +1,8 @@
+ - Update tests for new model etc.
+ - Migrations?
+ - South migrations?
+ - Reconcile the need to distinguish U2FDevice.generate_register_challenge()
+   vs U2FDevice.generate_challenge(). The former is not part of the django-otp
+   plugin API.
+ - UI: Hide the response field
+ - Record/validate/enforce attestation
